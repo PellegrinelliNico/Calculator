@@ -9,4 +9,5 @@ public class Calculator {
 		System.out.println(s.sum(5,6));
 		
 	}
+	
 }
