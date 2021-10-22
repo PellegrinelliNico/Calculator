@@ -1,8 +1,12 @@
 package calculator;
 
+import java.io.IOException;
+
 public class Somma {
 	
-	public static float sum(float x, float y) {
+	public float sum() throws IOException {
+		float x = System.in.read();
+		float y = System.in.read();
 		return x+y;
 	}
 }
