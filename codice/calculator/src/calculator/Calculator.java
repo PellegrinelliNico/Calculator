@@ -6,8 +6,8 @@ public class Calculator {
 		Somma s = new Somma();
 		System.out.println("somma: " + s.sum(5,6));
 		
-		differenza d = new differenza();
-		System.out.println("somma: " + s.dif(5,6));
+		//differenza d = new differenza();
+		//System.out.println("diffferenza: " + d.meno(5,6));
 		
 	}
 	
