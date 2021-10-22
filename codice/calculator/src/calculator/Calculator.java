@@ -1,7 +1,5 @@
 package calculator;
 
-import Somma.*;
-
 public class Calculator {
 	
 	public static void main(String[] args) {
